@@ -1,4 +1,4 @@
-### Heyo!
+# Heyo!
 
 My GitHub profile acts as both a portfolio and a playground for my personal programming projects.
 
