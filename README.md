@@ -3,8 +3,8 @@
 My GitHub profile acts as both a portfolio and a playground for my personal programming projects.
 
 My goals:
-- Be more "Out there" with my personal projects.
-- Create more transparancy my development processes.
+- Be more "Out there" with my personal projects through releases and public feedback.
+- Make my development processes more transparent for others to see.
 - Doing the above in the name of fun and personal development!
 
 
